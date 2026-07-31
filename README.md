@@ -43,6 +43,20 @@
 - MITRE ATT&CK Framework
 - Log Analysis
 
+## 🏆 Certifications
+
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OG81K9FGZB.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-Certificate-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+
+<a href="https://app.letsdefend.io/certificate/show/1c4949d9-4f68-4e92-9a98-a8e2e55aa0ca" target="_blank">
+  <img src="https://img.shields.io/badge/LetsDefend-Cybersecurity%20for%20Students-2563EB?style=for-the-badge&logo=bookstack&logoColor=white" />
+</a>
+
+<a href="https://app.letsdefend.io/certificate/show/c4af40d7-847b-4944-b5a9-f4eff3927dde" target="_blank">
+  <img src="https://img.shields.io/badge/LetsDefend-SOC%20Analyst%20Learning%20Path-DC2626?style=for-the-badge&logo=bookstack&logoColor=white" />
+</a>
+
 ## Projects
 
 

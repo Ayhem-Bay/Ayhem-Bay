@@ -62,7 +62,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory administration | <a href="https://github.com/AyhemBay/Active-Directory"> Active Directory Project</a> |
+| Active Directory administration | <a href="https://github.com/Ayhem-Bay/Active-Directory"> Active Directory Project</a> |
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Ayhem-Bay/SOC-Lab-with-Wazuh">Build SOC Lab with Wazuh</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="">Detection Lab (Soon)</a>|
 | Security Automation with Shuffle SOAR         | <a href="">SOAR EDR Project (Soon)</a>|

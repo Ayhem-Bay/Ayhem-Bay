@@ -64,6 +64,7 @@
 |-----------------------------------------------|----------------------------|
 | Active Directory administration | <a href="https://github.com/Ayhem-Bay/Active-Directory"> Active Directory Project</a> |
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Ayhem-Bay/SOC-Lab-with-Wazuh">Build SOC Lab with Wazuh</a>|
+| Analysing Malware Samples in Isolated Environment | <a href="https://github.com/Ayhem-Bay/Malware-Analysis-Lab">Malware Analysis Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="">Detection Lab (Soon)</a>|
 | Security Automation with Shuffle SOAR         | <a href="">SOAR EDR Project (Soon)</a>|
 

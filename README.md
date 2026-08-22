@@ -24,10 +24,10 @@
 -  <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 -   <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 -  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-- <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-000000?&style=for-the-badge" />
-- Digital Forensics
-- Endpoint Forensics
-- Threat Intellegence
+- <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-000000?&style=for-the-badge&logo=Mitre&logoColor=white" />
+- <img src="https://img.shields.io/badge/-Digital_Forensics-EZ3C2A?&style=for-the-badge&logo=Mitre&logoColor=white" />
+- <img src="https://img.shields.io/badge/-Endpoint_Forensics-B01B00?&style=for-the-badge&logo=Mitre&logoColor=white" />
+- <img src="https://img.shields.io/badge/-Threat_Intelligence-00AAB0?&style=for-the-badge&logo=Mitre&logoColor=white" />
 
 ## Learned
 
